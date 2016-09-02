@@ -1,0 +1,73 @@
+# File starts with number of pods
+# Then, for each pod, has a two lines (string, then two booleans)
+#   pod name,
+#   whether it has a recovery kit, whether it has the datacache.
+#
+# It then lists the traps and the items that disable the traps:
+#  trap name
+#  number of items to disable
+#  item weight   item name
+#  item weight   item name
+#  ....
+20
+Docking Pod
+false false
+Pod 1
+false false
+Pod 2
+false false
+Pod 3
+true false
+Pod 4
+false false
+Pod 5
+false false
+Pod 6
+true false
+Pod 7
+false true
+Pod 8
+true false
+Pod 9
+false false
+Pod 10
+true false
+Pod 11
+false false
+Pod 12
+true false
+Pod 13
+false false
+Pod 14
+true false
+Pod 15
+false false
+Pod 16
+false false
+Pod 17
+true false
+Pod 18
+false false
+Pod 19
+true false
+bomb
+2
+2.5 remote gripper
+5.5 defuser
+well pit
+1
+6.0 well cover
+Flame thrower
+2
+3.8 fire extinguisher
+2.0 fire blanket
+Spike array
+1
+8.3 Plank
+Blinding Arc Light
+1
+1.7 welding hood
+Ear Splitting Alarm
+1
+0.7 ear muffs
+

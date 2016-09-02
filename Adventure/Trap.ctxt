@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=n\ items
+comment0.target=Trap(java.lang.String,\ java.util.ArrayList)
+comment1.params=
+comment1.target=boolean\ isActive()
+comment2.params=
+comment2.target=void\ enableTrap()
+comment3.params=i
+comment3.target=boolean\ disableTrap(Item)
+comment4.params=
+comment4.target=void\ desc()
+comment4.text=DELETE
+numComments=5
